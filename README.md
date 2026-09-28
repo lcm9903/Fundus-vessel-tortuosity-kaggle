@@ -223,6 +223,6 @@ ICC 해석 기준(Koo & Li 2016): 0.75 이상 좋음, 0.5–0.75 보통, 0.5 미
 - Hart WE, et al. Measurement and classification of retinal vascular tortuosity. *International Journal of Medical Informatics* 1999.
 - Koo TK, Li MY. A guideline of selecting and reporting intraclass correlation coefficients for reliability research. *Journal of Chiropractic Medicine* 2016.
 
-## 13. 기술 스택
+## 10. 기술 스택
 
 PyTorch, segmentation_models_pytorch, albumentations, OpenCV, scikit-image, SciPy, scikit-learn, pandas, joblib, matplotlib, kagglehub
